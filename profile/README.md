@@ -19,4 +19,7 @@ Spandan | February | CSR Activity
 </center>
 
 ### 🤝 Contribute Us
-We are always open for contributions in terms of projects, ideas, blogs, sponsorships, etc. 
+We are always open for contributions in terms of projects, ideas, blogs, sponsorships, etc.
+<br>
+<br>
+<center><a href="wcewlug.org">&copy; WarGames 2.0</a></center>

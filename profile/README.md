@@ -22,4 +22,4 @@ Spandan | February | CSR Activity
 We are always open for contributions in terms of projects, ideas, blogs, sponsorships, etc.
 <br>
 <br>
-<center><a href="wcewlug.org">&copy; WarGames 2.0</a></center>
+<center><a href="https://github.com/RAOexe/wargames/blob/main/README.md">&copy; WarGames 2.0</a></center>

@@ -1,6 +1,6 @@
 # Hey, this is us 👋
 
-![penguin](https://user-images.githubusercontent.com/98302342/211800955-ca47f240-e86a-43da-b6a6-d9695d96a2e4.gif)
+![penguin](https://drive.google.com/uc?export=view&id=1CucXE2N9ijMJ4BC29VmhgykH8JyhpqUG)
 
 We are Club of **Linux and Open Source Enthusiasts** established in **2003** from **Walchand College of Engineering, Sangli** who actively takes part in training students with limited knowledge of Open Source to fully fledged Open Source developers. We conduct various **activities throughout the year** to promote Open Source technologies including talks, discussions, bootcamps and competitions.
 

@@ -1,4 +1,7 @@
-# Hey, this is us 👋
+<div align="center">
+<h1> Hey, this is us <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="50" height="50" /> </h1>
+
+</div>
 
 ![penguin](https://drive.google.com/uc?export=view&id=1CucXE2N9ijMJ4BC29VmhgykH8JyhpqUG)
 

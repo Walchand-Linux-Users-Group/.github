@@ -1,5 +1,6 @@
 <div align="center">
-<h1> Hey, this is us <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="50" height="50" /> </h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="75" height="75" />
+<h1> Hey, this is us </h1>
 
 </div>
 
